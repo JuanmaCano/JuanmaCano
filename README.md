@@ -11,3 +11,6 @@ const JuanmaCano = {
   country: "Spain"
 }
 ```
+
+Find me🌎:
+- Sharing updates on <a href="www.linkedin.com/in/JuanmaCano1980">LinkedIn</a> 💼
