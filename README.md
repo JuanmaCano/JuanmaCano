@@ -13,5 +13,5 @@ const JuanmaCano = {
 ```
 
 Find me:
-- Sharing updates on <a href="www.linkedin.com/in/JuanmaCano1980">LinkedIn</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/JuanmaCano1980">LinkedIn</a>
 - Some interesting notes <a href="https://codepen.io/JuanmaCano/">CodePen</a>
