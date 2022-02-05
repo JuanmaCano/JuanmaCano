@@ -4,7 +4,7 @@ Hi, I'm Juanma:
 const JuanmaCano = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Typescript],
-  tools: [Vue, Pinia, Angular],
+  tools: [Vue, Angular, .NET, NodeJS],
   challenge: "Never stops learning !!", 
   top challenge: "developing around the world from home with two little devils (I love them)",
   city: "Huelva",
